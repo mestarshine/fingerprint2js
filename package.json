@@ -55,7 +55,7 @@
   "dependencies": {},
   "description": "Modern & flexible browser fingerprinting library",
   "devDependencies": {
-    "eslint": "^0.14.1",
+    "eslint": "^4.18.2",
     "gulp": "^3.8.11",
     "gulp-eslint": "^0.4.2",
     "gulp-rename": "^1.2.2",
